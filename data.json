@@ -1,0 +1,333 @@
+[
+{
+    "nome": "São Paulo",
+    "descricao": "O São Paulo Futebol Clube conquistou o Tricampeonato Mundial em 2005.",
+    "data_criacao": 1930,
+    "link": "https://www.saopaulofc.net/o-tricampeonato-mundial/#:~:text=Com%20gol%20de%20Mineiro%20e,terceira%20vez%20h%C3%A1%2018%20anos!"
+  },
+  {
+    "nome": "Santos FC",
+    "descricao": "Time do icônico Pelé, O Santos conseguiu alcançar o Bicampeonato Mundial em 1963",
+    "data_criacao": 1912,
+    "link": "https://www.santosfc.com.br/santos-duas-vezes-campeao-do-mundo/#:~:text=Na%20noite%20de%20s%C3%A1bado%2C%2016,in%C3%A9dito%20t%C3%ADtulo%20contra%20a%20Milan."
+  },
+  {
+    "nome": "Flamengo",
+    "descricao": "Zico um dos principais nomes da seleção e do clube, Com ele o Flamengo alcançou a Libertadores e o Mundial.",
+    "data_criacao": 1895,
+    "link": "https://www.flamengo.com.br/titulosdoflamengo"
+  },
+  {
+    "nome": "Corinthians",
+    "descricao": "O Sport Club Corinthians Paulista foi campeão do primeiro Mundial de Clubes da FIFA em 2000, e bicampeão em 2012.",
+    "data_criacao": 1910,
+    "link": "https://www.corinthians.com.br/clube/titulos"
+  },
+  {
+    "nome": "Grêmio",
+    "descricao": "O Grêmio Foot-Ball Porto Alegrense foi o primeiro clube fora do eixo Rio-São Paulo a conquistar o Mundial de Clubes em 1983.",
+    "data_criacao": 1903,
+    "link": "https://gremio.net/titulos"
+  },
+  {
+    "nome": "Sociedade Esportiva Palmeiras",
+    "descricao": "O Verdão, um dos clubes mais vitoriosos do Brasil, detentor de inúmeros títulos nacionais, incluindo o recorde de Campeonatos Brasileiros.",
+    "data_criacao": "1914",
+    "link": "https://www.palmeiras.com.br",
+    "tags": [
+      "palmeiras",
+      "sao_paulo",
+      "serie_a",
+      "libertadores"
+    ]
+  },
+  {
+    "nome": "Clube Atlético Mineiro",
+    "descricao": "O Galo, primeiro campeão brasileiro reconhecido e campeão da Copa Libertadores, conhecido por sua torcida fervorosa e a Arena MRV.",
+    "data_criacao": "1908",
+    "link": "https://atletico.com.br",
+    "tags": [
+      "galo",
+      "mineiro",
+      "belo_horizonte",
+      "brasileirao"
+    ]
+  },
+  {
+    "nome": "Sport Club Internacional",
+    "descricao": "O Colorado, um dos gigantes do Sul, campeão mundial FIFA e três vezes campeão da Libertadores. Manda seus jogos no Beira-Rio.",
+    "data_criacao": "1909",
+    "link": "https://internacional.com.br",
+    "tags": [
+      "colorado",
+      "porto_alegre",
+      "gaucho",
+      "mundial",
+      "serie_a"
+    ]
+  },
+  {
+    "nome": "Cruzeiro Esporte Clube",
+    "descricao": "A Raposa, único time mineiro a vencer a Copa Libertadores duas vezes e um dos maiores vencedores da Copa do Brasil (hexacampeão).",
+    "data_criacao": "1921",
+    "link": "https://www.cruzeiro.com.br",
+    "tags": [
+      "raposa",
+      "cruzeiro",
+      "mineiro",
+      "serie_a"
+    ]
+  },
+  {
+    "nome": "Fluminense Football Club",
+    "descricao": "O Tricolor das Laranjeiras, tradicional clube carioca e atual campeão da Copa Libertadores. Manda jogos no Maracanã.",
+    "data_criacao": "1902",
+    "link": "https://www.fluminense.com.br",
+    "tags": [
+      "fluminense",
+      "carioca",
+      "maracana",
+      "libertadores"
+    ]
+  },
+  {
+    "nome": "Botafogo de Futebol e Regatas",
+    "descricao": "O Glorioso, conhecido pela Estrela Solitária e por ter sido a casa de lendas como Garrincha e Nilton Santos.",
+    "data_criacao": "1904",
+    "link": "https://www.botafogo.com.br",
+    "tags": [
+      "botafogo",
+      "glorioso",
+      "carioca",
+      "nilton_santos"
+    ]
+  },
+  {
+    "nome": "Club de Regatas Vasco da Gama",
+    "descricao": "O Gigante da Colina, campeão da Libertadores de 1998 e um dos clubes mais populares e antigos do Rio de Janeiro.",
+    "data_criacao": "1898",
+    "link": "https://vasco.com.br",
+    "tags": [
+      "vasco",
+      "gigante",
+      "cruz_de_malta",
+      "sao_januario"
+    ]
+  },
+  {
+    "nome": "Clube Athletico Paranaense",
+    "descricao": "O Furacão, conhecido por sua gestão moderna e por ser o dono da Arena da Baixada, um dos estádios mais tecnológicos do país.",
+    "data_criacao": "1924",
+    "link": "https://www.athleticoparanaense.com.br",
+    "tags": [
+      "furacao",
+      "parana",
+      "curitiba",
+      "arena_baixada"
+    ]
+  },
+  {
+    "nome": "Esporte Clube Bahia",
+    "descricao": "O Esquadrão de Aço, bicampeão brasileiro, a maior força do futebol baiano e do Nordeste. Tem a Arena Fonte Nova como casa.",
+    "data_criacao": "1931",
+    "link": "https://www.esporteclubebahia.com.br",
+    "tags": [
+      "bahia",
+      "nordeste",
+      "esquadrao",
+      "salvador"
+    ]
+  },
+  {
+    "nome": "Esporte Clube Vitória",
+    "descricao": "O Leão da Barra, grande rival do Bahia, clube com forte tradição na formação de atletas. Joga no Estádio Barradão.",
+    "data_criacao": "1899",
+    "link": "https://www.ecvitoria.com.br",
+    "tags": [
+      "vitoria",
+      "barradao",
+      "baiano",
+      "leao"
+    ]
+  },
+  {
+    "nome": "Sport Club do Recife",
+    "descricao": "O Leão da Ilha, campeão brasileiro de 1987 e uma das maiores potências do futebol nordestino. Atua na Ilha do Retiro.",
+    "data_criacao": "1905",
+    "link": "https://sportrecife.com.br",
+    "tags": [
+      "sport",
+      "recife",
+      "pernambuco",
+      "ilhadoretiro"
+    ]
+  },
+  {
+    "nome": "Fortaleza Esporte Clube",
+    "descricao": "O Leão do Pici, clube cearense que alcançou grande destaque nacional e internacional na última década. Joga na Arena Castelão.",
+    "data_criacao": "1918",
+    "link": "https://fortaleza1918.com.br",
+    "tags": [
+      "fortaleza",
+      "ceara",
+      "nordeste",
+      "castelao"
+    ]
+  },
+  {
+    "nome": "Ceará Sporting Club",
+    "descricao": "O Vovô, um dos clubes mais antigos e tradicionais do Nordeste, rival histórico do Fortaleza.",
+    "data_criacao": "1914",
+    "link": "https://www.cearasc.com",
+    "tags": [
+      "ceara",
+      "vovo",
+      "nordeste",
+      "futebol"
+    ]
+  },
+  {
+    "nome": "Coritiba Foot Ball Club",
+    "descricao": "O Coxa Branca, primeiro time do Sul do Brasil a vencer o Campeonato Brasileiro, em 1985. Joga no Couto Pereira.",
+    "data_criacao": "1909",
+    "link": "https://www.coritiba.com.br",
+    "tags": [
+      "coritiba",
+      "coxa",
+      "paranaense",
+      "couto_pereira"
+    ]
+  },
+  {
+    "nome": "Grêmio Novorizontino",
+    "descricao": "Clube paulista com ascensão recente no cenário nacional, conhecido por seu mascote, o Tigre. Disputa a Série B.",
+    "data_criacao": "2010",
+    "link": "https://gremionovorizontino.com.br",
+    "tags": [
+      "novorizontino",
+      "paulista",
+      "serie_b",
+      "futebol"
+    ]
+  },
+  {
+    "nome": "Associação Atlética Ponte Preta",
+    "descricao": "A Macaca, clube mais antigo do Brasil em atividade ininterrupta, famosa por sua fidelidade e rivalidade com o Guarani.",
+    "data_criacao": "1900",
+    "link": "https://www.pontepreta.com.br",
+    "tags": [
+      "ponte_preta",
+      "campinas",
+      "paulista",
+      "macaca"
+    ]
+  },
+  {
+    "nome": "Associação Chapecoense de Futebol",
+    "descricao": "O Verdão do Oeste, time marcado pela tragédia aérea de 2016, mas que se reconstruiu e se tornou símbolo de resiliência.",
+    "data_criacao": "1973",
+    "link": "https://www.chapecoense.com",
+    "tags": [
+      "chapecoense",
+      "santa_catarina",
+      "resiliencia",
+      "futebol"
+    ]
+  },
+  {
+    "nome": "Goiás Esporte Clube",
+    "descricao": "O Esmeraldino, tradicional clube de Goiás, conhecido por revelar grandes jogadores e ter forte presença na Série A e B.",
+    "data_criacao": "1943",
+    "link": "https://www.goiasec.com.br",
+    "tags": [
+      "goias",
+      "goiano",
+      "esmeraldino",
+      "brasil_central"
+    ]
+  },
+  {
+    "nome": "América Futebol Clube",
+    "descricao": "O Coelho, um dos grandes clubes de Belo Horizonte, conhecido por sua tradição e por ser formador de talentos.",
+    "data_criacao": "1912",
+    "link": "https://www.americafc.com.br",
+    "tags": [
+      "america",
+      "mineiro",
+      "coelho",
+      "belo_horizonte"
+    ]
+  },
+  {
+    "nome": "Red Bull Bragantino",
+    "descricao": "O Massa Bruta, clube que ganhou destaque após a parceria com a Red Bull, investindo em jovens talentos e infraestrutura moderna.",
+    "data_criacao": "1928",
+    "link": "https://www.redbullbragantino.com.br",
+    "tags": [
+      "bragantino",
+      "red_bull",
+      "paulista",
+      "serie_a"
+    ]
+  },
+  {
+    "nome": "Paraná Clube",
+    "descricao": "O Tricolor da Vila, clube com história recente de sucesso em Curitiba, resultado da fusão de tradicionais equipes paranaenses.",
+    "data_criacao": "1989",
+    "link": "https://www.paranaclube.com.br",
+    "tags": [
+      "parana_clube",
+      "curitiba",
+      "tricolor",
+      "vila_capanema"
+    ]
+  },
+  {
+    "nome": "Clube Náutico Capibaribe",
+    "descricao": "O Timbu, tradicional clube de Pernambuco, com destaque pela natação e pelos seis títulos estaduais consecutivos conquistados.",
+    "data_criacao": "1901",
+    "link": "https://www.nautico-pe.com.br",
+    "tags": [
+      "nautico",
+      "pernambucano",
+      "timbu",
+      "aflitos"
+    ]
+  },
+  {
+    "nome": "Avaí Futebol Clube",
+    "descricao": "O Leão da Ilha, um dos principais clubes de Santa Catarina, com intensa rivalidade regional com o Figueirense.",
+    "data_criacao": "1923",
+    "link": "https://www.avai.com.br",
+    "tags": [
+      "avai",
+      "florianopolis",
+      "santa_catarina",
+      "leao"
+    ]
+  },
+  {
+    "nome": "Criciúma Esporte Clube",
+    "descricao": "O Tigre, clube catarinense com títulos importantes, incluindo a Copa do Brasil de 1991, sob o comando de Felipão.",
+    "data_criacao": "1947",
+    "link": "https://www.criciuma.com.br",
+    "tags": [
+      "criciuma",
+      "tigre",
+      "copa_do_brasil",
+      "santa_catarina"
+    ]
+  },
+  {
+    "nome": "Esporte Clube Juventude",
+    "descricao": "O Papo, clube gaúcho sediado em Caxias do Sul, campeão da Copa do Brasil em 1999 e conhecido por sua garra serrana.",
+    "data_criacao": "1913",
+    "link": "https://www.juventude.com.br",
+    "tags": [
+      "juventude",
+      "gaucho",
+      "caxias_do_sul",
+      "copa_do_brasil"
+    ]
+  }
+]
